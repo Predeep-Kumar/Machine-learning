@@ -1,0 +1,2 @@
+Dowmload the dataset and paste in this folder.
+you can doenload the dataset using this link --> https://www.kaggle.com/datasets/blastchar/telco-customer-churn
